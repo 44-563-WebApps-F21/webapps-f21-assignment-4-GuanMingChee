@@ -1,0 +1,38 @@
+.speech{
+    font-family: Serif;
+    font-size: 18;
+    color:black;
+}
+
+.stage-direction{
+    font-family: Monospace;
+    font-size: 18;
+    color:black;
+    background-color: ivory;
+}
+
+.stage-direction:hover{ 
+    color:lightskyblue; 
+    background-color: crimson;}
+
+.name{
+    font-family: Sans-serif;
+    font-size: 18;
+    color:black;
+}
+
+.MRS-ALLONBY{
+    color:purple;
+}
+
+.LADY-STUTFIELD{
+    color:lime;
+}
+
+.LADY-HUNSTANTON{
+    color:red;
+}
+
+.LADY-CAROLINE{
+    color:teal;
+}
