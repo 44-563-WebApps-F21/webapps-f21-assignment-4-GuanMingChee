@@ -26,7 +26,7 @@
 }
 
 .LADY-STUTFIELD{
-    color:lime;
+    color:cadetblue;
 }
 
 .LADY-HUNSTANTON{
@@ -59,3 +59,7 @@ tr:nth-child(even) {
     background-color: #f2f2f2;
 }
 
+.name:hover {
+    text-shadow:2px 2px 2px cornflowerblue;
+    border: 3px solid yellowgreen;
+}
